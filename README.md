@@ -1,7 +1,5 @@
 # Commonwealth-Bank-Introduction-to-Data-Science
 
-Virtual Job Simulation in collaboration with Forage and Commonwealth Bank Australia
-
 Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
 
 Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
