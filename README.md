@@ -1,6 +1,6 @@
 # Commonwealth-Bank-Introduction-to-Data-Science
 
-*Summary of Project*
+# Summary of Project
 
 Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
 
