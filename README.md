@@ -26,9 +26,9 @@ Proposed effective data analysis approaches, particularly related to social medi
 
 ## Result/ Presentation
 
-[Database Structure Proposal for Storing Tweets from CommBank Twitter Account.docx]( https://github.com/reuel97/Commonwealth-Bank-Introduction-to-Data-Science/blob/main/Database%20Structure%20Proposal%20for%20Storing%20Tweets%20from%20CommBank%20Twitter%20Account.docx)
+[Database Structure Proposal for Storing Tweets from CommBank Twitter Account.pdf](https://github.com/reuel97/Commonwealth-Bank-Introduction-to-Data-Science/blob/main/Database%20Structure%20Proposal%20for%20Storing%20Tweets%20from%20CommBank%20Twitter%20Account.pdf)
 
-[Proposal for Using @CommBank Twitter Data for InsightSpark.docx]( https://github.com/reuel97/Commonwealth-Bank-Introduction-to-Data-Science/blob/main/Proposal%20for%20Using%20%40CommBank%20Twitter%20Data%20for%20InsightSpark.docx)
+[Proposal for Using CommBank Twitter Data for InsightSpark.pdf](https://github.com/reuel97/Commonwealth-Bank-Introduction-to-Data-Science/blob/main/Proposal%20for%20Using%20CommBank%20Twitter%20Data%20for%20InsightSpark.pdf)
 
 ## Certification
 
